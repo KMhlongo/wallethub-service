@@ -1,6 +1,6 @@
 ## Description
 
-Backend service to be used with the WalletHub App.
+Backend service to be used with wallethub-app.
 
 ## Insutrctions
 
